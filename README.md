@@ -44,8 +44,8 @@ Each content creator has a dedicated page like:
 
 https://liinkaat.com/youssefashraf
 
-
 This page includes:
+
 - Creator’s profile picture
 - Bio / About section
 - Social media icons and links
@@ -56,6 +56,7 @@ This page includes:
 ### ✍️ Creator Edit Mode
 
 When the creator accesses Linkat via the secure token:
+
 - They are redirected to an **Edit Mode** interface.
 - Can upload/change their profile picture.
 - Edit bio.
@@ -67,6 +68,7 @@ When the creator accesses Linkat via the secure token:
 ### 👀 Public View Mode
 
 When a follower opens the creator’s page:
+
 - They see a **read-only** version.
 - No edit access.
 - Clean and mobile-friendly interface.
@@ -88,26 +90,25 @@ When a follower opens the creator’s page:
 
 ### 🖊️ Profile Edit
 
-![Profile Edit](image-1.png)
-![Profile Edit - 2](image-2.png)
-
----
-
-### 📲 Apps Edit
-
 ![Apps Edit](image-3.png)
 ![Apps Edit - 2](image-4.png)
 
 ---
 
+### 📲 Apps Edit
+
+![Profile Edit](image-1.png)
+![Profile Edit - 2](image-2.png)
+
+---
+
 ### 👀 Public View
 
-![Public View](image.png)
----
+## ![Public View](image.png)
 
 ## 📂 Related Repositories
 
-- [🔧 Future Dashboard (Admin Panel)](https://github.com/your-username/future-dashboard)  
+- [🔧 Future Dashboard (Admin Panel)](https://github.com/your-username/future-dashboard)
   > The central dashboard managing creators, salaries, statistics, and authentication.
 
 ---
@@ -122,9 +123,9 @@ When a follower opens the creator’s page:
 
 If you'd like to learn more about the implementation, feel free to contact me:
 
-- 📧 Email: your@email.com  
+- 📧 Email: your@email.com
 - 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-link)
 
 ---
 
-"# Linkaat" 
+"# Linkaat"
