@@ -108,7 +108,7 @@ When a follower opens the creator’s page:
 
 ## 📂 Related Repositories
 
-- [🔧 Future Dashboard (Admin Panel)](https://github.com/your-username/future-dashboard)
+- [🔧 Future Dashboard (Admin Panel)](https://github.com/code-with-youssef/Future_dashboard)
   > The central dashboard managing creators, salaries, statistics, and authentication.
 
 ---
@@ -123,8 +123,8 @@ When a follower opens the creator’s page:
 
 If you'd like to learn more about the implementation, feel free to contact me:
 
-- 📧 Email: your@email.com
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-link)
+- 📧 Email: youssef.ashraf.othman120@gmail.com
+- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/youssefashraf2)
 
 ---
 
