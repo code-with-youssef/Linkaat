@@ -85,23 +85,24 @@ When a follower opens the creator’s page:
 ---
 
 ## 📸 Screenshots (Replace with Real Images)
+
 ### 🖊️ Profile Edit
 
-![Profile Edit]((image-3.png))
-![Profile Edit - 2]((image-4.png))
+![Profile Edit](image-1.png)
+![Profile Edit - 2](image-2.png)
 
 ---
 
 ### 📲 Apps Edit
 
-![Apps Edit]((image-1.png))
-![Apps Edit - 2]((image-2.png))
+![Apps Edit](image-3.png)
+![Apps Edit - 2](image-4.png)
 
 ---
 
 ### 👀 Public View
 
-![Public View]((image.png))
+![Public View](image.png)
 ---
 
 ## 📂 Related Repositories
