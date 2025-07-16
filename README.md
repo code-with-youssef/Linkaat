@@ -124,7 +124,7 @@ When a follower opens the creator’s page:
 If you'd like to learn more about the implementation, feel free to contact me:
 
 - 📧 Email: youssef.ashraf.othman120@gmail.com
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/youssefashraf2)
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/youssefashraf2)
 
 ---
 
